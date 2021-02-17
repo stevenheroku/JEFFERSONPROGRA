@@ -15,6 +15,12 @@ namespace JEFFERSONRR
             Console.WriteLine("JEFFERSON STEVEN RODRIGUEZ RUEDA");
             Console.WriteLine("JOSE ANDRE RUEDA ALVARAADO");
 
+
+
+            Console.WriteLine("CARRERAS UNIVESITARIAS");
+            Console.WriteLine("INGENIERIA EN SISTEMAS");
+            Console.WriteLine("ARQUITECTURA");
+
         }
     }
 }
